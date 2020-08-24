@@ -1,0 +1,33 @@
+.Degrade{
+background-image: radial-gradient(black,mediumblue,#000045);
+background-repeat: no-repeat;
+width:auto;
+color: white;
+}
+.body{
+    color: white;
+    font-size: 12px;
+    font-family:cursive;
+}
+#h1{ 
+    font-size:12px;
+    text-align:justify-all;
+    color: white;
+    
+}
+#conteneur
+{
+    
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:auto;
+    align-items:auto;
+    text-align: auto;
+    background: radial-gradient (black,mediumblue,#000045;);
+    align-items: auto;
+    min-width: auto;
+    max-width: auto;
+    font-size: 25px;
+    color: white;
+    -webkit-text-fill-color:white;
+}
